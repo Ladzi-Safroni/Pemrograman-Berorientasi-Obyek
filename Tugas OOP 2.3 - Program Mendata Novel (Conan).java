@@ -1,6 +1,6 @@
 package oop.pkg2.program.oop.conan;
 
-import java.util.Scanner
+import java.util.Scanner;
 
 class Novel{
        String title;
